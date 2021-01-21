@@ -6,12 +6,13 @@ import {robots} from './robots'
  
 import CardList from './CardList'
 import reportWebVitals from './reportWebVitals';
-
+import App from './App'
 import 'tachyons';
 
 
 ReactDOM.render(
   <React.StrictMode>
+    <App />
     <CardList robots={robots}/>
   </React.StrictMode>,
   document.getElementById('root')

@@ -10,8 +10,9 @@ const App = () => {
 		<div>
 			
 		<h1>Robo Friends</h1>
+		<h2>TEST</h2>
 		<SearchBox/>
-		<CardList robots={robots}/>
+		<CardList robots={robots} />
 
 		</div>
 	)
