@@ -13,7 +13,7 @@ import 'tachyons';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <CardList robots={robots}/>
+    {/* <CardList robots={robots}/> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
