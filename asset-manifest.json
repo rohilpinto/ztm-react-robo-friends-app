@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ztm-react-robo-friends-app/static/css/main.6de2ee5c.chunk.css",
-    "main.js": "/ztm-react-robo-friends-app/static/js/main.09e4178d.chunk.js",
-    "main.js.map": "/ztm-react-robo-friends-app/static/js/main.09e4178d.chunk.js.map",
+    "main.js": "/ztm-react-robo-friends-app/static/js/main.0c272641.chunk.js",
+    "main.js.map": "/ztm-react-robo-friends-app/static/js/main.0c272641.chunk.js.map",
     "runtime-main.js": "/ztm-react-robo-friends-app/static/js/runtime-main.d21e21e6.js",
     "runtime-main.js.map": "/ztm-react-robo-friends-app/static/js/runtime-main.d21e21e6.js.map",
     "static/css/2.31461e4f.chunk.css": "/ztm-react-robo-friends-app/static/css/2.31461e4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.e7eaf872.chunk.js",
     "static/css/main.6de2ee5c.chunk.css",
-    "static/js/main.09e4178d.chunk.js"
+    "static/js/main.0c272641.chunk.js"
   ]
 }
